@@ -1,0 +1,4 @@
+gametheory
+==========
+
+simulation of games
