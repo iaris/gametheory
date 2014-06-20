@@ -17,7 +17,7 @@ belief1 = [current_belief1]
 
 for i in range(ts_length):
     
-    if current_belief0 > 0.5:　#プレイヤー0の行動を指定
+    if current_belief0 > 0.5: #プレイヤー0の行動を指定
         player0_play = 1
     else:
         player0_play = 0
